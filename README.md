@@ -1,5 +1,9 @@
 # Introdução ao Java
 
+<p align="center">
+  <img src="https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png" alt="Logo do Java"/>
+</p>
+
 ## Sumário
   - [Informações básicas sobre a criação da linguagem](#informações-básicas-sobre-a-criação-da-linguagem)
   - [Exemplo de código em Java](#exemplo-de-código-em-java)
