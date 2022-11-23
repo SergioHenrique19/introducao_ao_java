@@ -1,5 +1,9 @@
 # Introdução ao Java
 
+## Sumário
+  - [Informações básicas sobre a criação da linguagem](#informações-básicas-sobre-a-criação-da-linguagem)
+  - [Exemplo de código em Java](#exemplo-de-código-em-java)
+
 ## Informações básicas sobre a criação da linguagem
   - **Criador:** James Gosling
   - **Empresa responsável:** Sun Microsystem, comprada pela Oracle em 2008
